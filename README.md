@@ -1,7 +1,7 @@
 # Desafio-teste-do-delivery# Testes de Qualidade: Aplicativo de Delivery
 
 **Atividade:** Desafio de testes de software
-**Autor(a):** _seu nome aqui_
+**Autor(a):** Vitor Hugo Xavier Afonso Dos Santos
 
 ---
 
