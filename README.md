@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32883280/README.md)
 # Desafio-teste-do-delivery# Testes de Qualidade: Aplicativo de Delivery
 
 **Atividade:** Desafio de testes de software
